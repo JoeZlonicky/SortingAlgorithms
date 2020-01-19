@@ -5,4 +5,4 @@ Visualizes the process of sorting algorithms by display randomized data being so
 
 ![Image of quick sort](screenshots/quick_sort.png)
 
-![Image of bubble sort](screenshots/insertion_sort.png)
+![Image of bubble sort](screenshots/bubble_sort.png)
