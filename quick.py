@@ -2,8 +2,9 @@ from algorithm import SortingAlgorithm
 
 
 class QuickSort(SortingAlgorithm):
+    """ Visualize the quick sort algorithm """
+
     def __init__(self):
-        """ Visualize the quick sort algorithm """
         super().__init__("Quick sort", 100)
 
     def apply_algorithm(self):

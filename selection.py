@@ -2,8 +2,9 @@ from algorithm import SortingAlgorithm
 
 
 class SelectionSort(SortingAlgorithm):
+    """ Visualize the selection sort algorithm """
+
     def __init__(self):
-        """ Visualize the selection sort algorithm """
         super().__init__("Selection sort", 100)
 
     def apply_algorithm(self):

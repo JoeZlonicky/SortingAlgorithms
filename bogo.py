@@ -3,8 +3,9 @@ from algorithm import SortingAlgorithm
 
 
 class BogoSort(SortingAlgorithm):
+    """ Visualize the bogo sort algorithm """
+    
     def __init__(self):
-        """ Visualize the bogo sort algorithm """
         super().__init__("Bogo", 7)
 
     def apply_algorithm(self):

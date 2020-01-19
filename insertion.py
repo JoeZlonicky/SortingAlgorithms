@@ -2,8 +2,9 @@ from algorithm import SortingAlgorithm
 
 
 class InsertionSort(SortingAlgorithm):
+    """ Visualize the insertion sort algorithm """
+    
     def __init__(self):
-        """ Visualize the insertion sort algorithm """
         super().__init__("Insertion sort", 100)
 
     def apply_algorithm(self):

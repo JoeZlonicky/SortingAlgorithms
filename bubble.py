@@ -2,8 +2,9 @@ from algorithm import SortingAlgorithm
 
 
 class BubbleSort(SortingAlgorithm):
+    """ Visualize the bubble sort algorithm """
+    
     def __init__(self):
-        """ Visualize the bubble sort algorithm """
         super().__init__("Bubble sort", 100)
 
     def apply_algorithm(self):
